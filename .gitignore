@@ -1,0 +1,20 @@
+# Model checkpoints (too large for GitHub)
+*.pth
+*.pt
+*.h5
+*.keras
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
